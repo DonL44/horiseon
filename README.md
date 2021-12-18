@@ -1,4 +1,4 @@
-# Horiseon | Online SEO, Reputation, and Marketing Services
+# Horiseon | Code-Refactor
 
 ## Description
 
